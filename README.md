@@ -1,4 +1,5 @@
 # Single Page Applications Sprint Challenge
+clayton wilkerson 1/24
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
